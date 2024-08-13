@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Lexo7
-- 👀 I’m interested in coding and web development
-- 🌱 I’m currently learning python and web development
-- 💞️ I’m looking to collaborate on building a project
-- 📫 How to reach me (lxquao@gmail.com)
+
+👀 I’m passionate about data analysis and Machine Learning.
+🌱 I’m currently advancing my skills in Python, SQL, R, excel and business intelligence tools like Power BI.
+💞️ I’m looking to collaborate on data-driven projects that involve predictive modeling, data visualization, and performance analytics.
+📫 You can reach me at lxquao@gmail.com.
+
 
 <!---
 Lexo7/Lexo7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
