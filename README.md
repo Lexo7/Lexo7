@@ -1,4 +1,5 @@
 # 💫 About Me:
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Alex</h1> 
 😎 I’m passionate about data Science and Machine Learning.<br>🌱 I’m currently advancing my skills in Python, SQL,  excel and business intelligence tools like Power BI.<br> 💞️I’m looking to collaborate on data-driven projects that involve predictive modeling, data visualization, and performance analytics. <br>📫 You can reach me at lxquao@gmail.com.
 
 
