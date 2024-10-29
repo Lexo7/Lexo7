@@ -15,11 +15,10 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lexo7)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lexo7)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lexo7&layout=compact&langs_count=100&count-private=true)](https://github.com/lexo7)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lexo7)
-[![Austin's Stat](https://github-readme-stats.vercel.app/api?username=lexo7&show_icons=true)](https://github.com/lexo7) 
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?user=lexo7&theme=dracula) 
+
+
 
 
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=lexo7)
